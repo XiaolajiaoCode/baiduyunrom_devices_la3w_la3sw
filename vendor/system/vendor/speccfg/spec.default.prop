@@ -1,0 +1,133 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+
+# Set the default spec as Default
+persist.env.spec=Default
+
+# Set the default build as dsds
+persist.radio.multisim.config=dsds
+
+# Set the default value for CSVT and this prop needn't control by toos.
+persist.radio.calls.on.ims=0
+persist.radio.jbims=0
+persist.radio.csvt.enabled=false
+
+#config ecc numbers when sim card is locked
+persist.radio.custom_ecc=1
+#persist.radio.ecc_mcc_count=1
+#persist.radio.ecc_mcc_1={460:110,119,120,122}
+persist.radio.ecc_voice_count=1
+persist.radio.ecc_voice_1={460:110,119,120,122}
+persist.radio.ecc_hardmcc_count=1
+persist.radio.ecc_hardmcc_1={460:110,119,120,122}
+persist.radio.rat_on=combine
+persist.radio.mt_sms_ack=20
+persist.radio.relay_oprt_change=1
+
+# Const
+persist.env.c.browser.resource=default
+persist.env.c.sb.style=0
+persist.env.c.email.carrier=default
+persist.env.c.email.defsmtp=587
+persist.env.c.phone.matchnum=7
+persist.env.c.phone.networkmode=0
+persist.env.c.mms.limitcount=0
+persist.env.c.mms.maxtextsize=0
+persist.env.c.mms.maxslidenum=10
+
+# For Phone
+persist.env.phone.smartdialer=true
+persist.env.phone.nosim=true
+persist.env.phone.diffsim=true
+persist.env.phone.carriername=false
+persist.env.phone.hidevoip=false
+persist.env.phone.callfwd.name=false
+persist.env.phone.jointforward=false
+persist.env.phone.activetime=false
+persist.env.phone.noduration=false
+persist.env.phone.callbarring=false
+persist.env.phone.location=false
+persist.env.phone.ecclist=false
+persist.env.phone.global=false
+
+# For Contacts
+persist.env.contacts.autosync=true
+
+# For MMS
+persist.env.mms.vcard=true
+persist.env.mms.wappushdialog=false
+persist.env.mms.discardlongsms=false
+persist.env.mms.7bitascii=false
+persist.env.mms.retryatonce=false
+persist.env.mms.reconnect=true
+persist.env.mms.savelocation=false
+persist.env.mms.mailbox=false
+persist.env.mms.smspriority=false
+persist.env.mms.classifysearch=false
+persist.env.mms.checksymbol=false
+persist.env.mms.smsringtone=false
+persist.env.mms.senttime=false
+persist.env.mms.sendconfirm=false
+persist.env.mms.setupmmsdata=false
+persist.env.mms.forwardconv=false
+
+# For Email
+persist.env.email.notifyicon=false
+persist.env.email.specprovider=false
+persist.env.email.sendprogress=false
+persist.env.email.forwardalert=false
+persist.env.email.showmail=false
+persist.env.email.syncsize=true
+persist.env.email.pickcontacts=true
+persist.env.email.attachfile=true
+persist.env.email.deletealert=false
+
+# For Video
+persist.env.video.loop=false
+persist.env.video.playlist=false
+persist.env.video.stereo=false
+persist.env.video.streaming=false
+
+# For Statusbar
+persist.env.sb.headset=true
+persist.env.sb.apnswitch=false
+persist.env.sb.dataswitch=false
+persist.env.sys.SHOW_CARRIER=true
+
+# For System
+persist.env.sys.bootanim=true
+persist.env.data.disable.sub2=false
+persist.env.sys.btnstyle=true
+
+# For Launcher
+persist.env.launcher.mail189=false
+persist.env.launcher.shortcut=false
+persist.env.launcher.sort=false
+persist.env.launcher.page=false
+
+# For Browser
+persist.env.browser.wap2estore=false
+persist.env.browser.drmupload=false
+
+# For Baidu xCloud
+persist.env.baidu.xcloud=true
+
+# For Settings
+persist.env.settings.cfgmmsapn=false
+persist.env.settings.showppp=false
+persist.env.settings.hidesupl=false
+persist.env.settings.cabl=false
+persist.env.settings.netinfo=false
+persist.env.settings.wifiprior=false
+persist.env.settings.autocon=false
+persist.env.settings.cell2wifi=false
+persist.env.settings.ssid=false
+persist.env.settings.wifi2cell=false
+persist.env.settings.apprompt=false
+persist.env.settings.agps=false
+persist.env.settings.searchapp=false
+
+# For DeskClock
+persist.env.deskclock.poalert=false
+persist.env.deskclock.incallsnz=false

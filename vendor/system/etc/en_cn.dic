@@ -1,0 +1,200 @@
+AUTO TEST
+自动测试
+PageUp
+上一页
+PageDown
+下一页
+CAMERA_BACK
+后摄像头
+CAMERA_FRONT
+前摄像头
+BATTERY
+电池与充电
+LCD
+显示屏
+KEYPAD_BACKLIGHT
+按键背光
+Flashlight
+闪光灯
+LED
+指示灯
+LED_GREEN
+绿色指示灯
+LED_BLUE
+蓝色指示灯
+G_SENSOR
+重力感应
+L_SENSOR
+光感应
+M_SENSOR
+地磁感应
+P_SENSOR
+距离感应
+Sdcard
+SD卡
+Simcard
+SIM卡
+Touch
+触摸屏
+SOFT_KEYS
+功能键
+HARDWARE_KEYS
+侧键
+Vibrator
+马达
+SPEAKER
+扬声器
+RECEIVER
+听筒
+HEADSET
+耳机
+MICKEY
+耳机按键
+AUDIO_HANDSET
+主MIC回环
+Audio_Headset
+耳机通路回环
+Audio_SUBMIC
+辅助MIC回环
+WIFI
+WIFI
+FM
+收音机
+BLUETOOTH
+蓝牙
+GPS_GARDEN
+GPS
+Fail
+失败
+Pass
+成功
+red
+红色
+green
+绿色
+blue
+蓝色
+can you listen the speaker sound
+是否可以听到扬声器声音？
+can you listen the receiver sound
+是否可以听到听筒声音？
+Head set not pluged 
+未插入耳机
+speak and listen the receiver in one minutes
+对着主MIC吹气，请用耳机接听声音
+did you listen what you say
+是否听到吹气声?
+please insert headset and press
+请插入耳机后单击
+please insert headset and press Mic-key
+请插入耳机，按下耳机按键...
+return
+返回
+up
+上翻↑
+down
+下翻↓
+finish
+结束∩
+battery status: %s
+充电状态：%s
+battery health: %s
+电池状态: %s
+battery voltage: %s
+电池电压: %s
+next
+下一个
+do you see the key backlight flicker ?
+是否可以看到按键灯闪烁？
+do you see the flashlight flicker?
+是否可以看到闪光灯闪烁？
+do you see the three led flicker?
+是否可以看到红,蓝,绿灯交替闪烁？
+do you see the BLUE color flicker?
+是否可以看到蓝色灯闪烁？
+do you see the GREEN color flicker?
+是否可以看到绿色灯闪烁？
+SD card not detected
+没识别到SD卡
+SD card detected
+成功识别SD卡
+VOLUME UP 
+增大音量
+VOLUME DOWN 
+减小音量
+PHONE POWER 
+电源键
+MENU 
+菜单
+HOME 
+主页
+BACK 
+返回
+Vibrating...
+是否可以感受到震动...
+SIMCARD1: reading status ...
+SIM卡1 ：读取状态...
+SIMCARD0: reading status ...
+SIM卡0 ：读取状态...
+SIMCARD1: not detected
+SIM卡1 ：识别失败
+SIMCARD0: not detected
+SIM卡0 ：识别失败
+SIMCARD1: detected
+SIM卡1 ：识别成功
+SIMCARD0: detected
+SIM卡0 ：识别成功
+speak to the headset, listen the headset in one minutes
+对着耳机话筒吹气，请用耳机接听声音
+speak to sub mic, listen the headset in one minutes
+对着辅助MIC吹气，请用耳机接听声音
+headset check
+耳机检测
+Head set not pluged
+没有检测到耳机插入
+Head set pluged in
+已插入耳机
+FM test start...
+FM测试开始...
+SEARCH NEXT >>
+搜索下一个台
+Start to config audio path for FM
+开始FM配置
+Searching available tune ...
+开始播放 ...
+Playing tune:%s
+正在播放：%s
+start bdt
+开始蓝牙测试
+waiting...
+请等待
+can't find AP, test failed
+没有搜到蓝牙设备
+Run garden_app... 
+运行GPS测试程序...
+GPS Test start... 
+正在搜索GPS...
+the number of sv: %d
+搜索到卫星数目：%d
+insmod wlan.ko
+安装wlan.ko
+open wlan0
+打开wlan0
+scan wifi
+扫描wifi...
+Acc
+重力感应
+Lux
+光感应
+Prx
+距离感应
+Initializing...
+正在初始化...
+Waiting for sensor...
+等待传感器...
+Mag
+地磁感应
+snapshot
+快照
+please insert the usb...
+请插入usb线...
